@@ -1,0 +1,49 @@
+body, #root {
+  color: green;
+  background-image: url("https://4.bp.blogspot.com/-3o9Q5nlv-oU/WOM2r1eMMwI/AAAAAAAAAME/Gf1jJtlFcl4kbynVuOK6memwQWSaNiKfgCLcB/s1600/Customizable%2BMatrix%2BDigital%2BRain.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 0 auto;
+}
+
+.game-display {
+  margin: 0 auto;
+}
+
+.generations {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.buttons {
+  display: inline-block;
+  position: relative;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
+button {
+  background-color: green;
+  border: none;
+  margin: 2px;
+}
+
+.start-pause {
+  border: 2px solid black;
+  width: 52px;
+}
+
+table {
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+td {
+  width: 6px;
+  height: 6px;
+  text-align: center;
+  border: 1px solid green;
+}
+
+
